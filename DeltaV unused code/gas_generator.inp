@@ -1,9 +1,0 @@
-prob
-rocket frozen nfz=1 p,bar=40 pi/pe=11.4
-react  
-  fuel=CO wt=0.16  t,k=2876  
-  fuel=CO2 wt=0.13  t,k=2876  
-  fuel=N2 wt=0.55  t,k=2876  
-  fuel=H2O wt=0.12  t,k=2876  
-  oxid=CO2 wt=1  t,k=293  
-end

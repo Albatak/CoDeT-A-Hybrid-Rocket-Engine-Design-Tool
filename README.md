@@ -45,7 +45,7 @@ The tool has been rigorously benchmarked against industry standards and experime
 
 ## Tech Stack
 * **Language:** MATLAB
-* **External Tools:** NASA CEA (Chemical Equilibrium with Applications)[cite: 21, 22]
+* **External Tools:** NASA CEA (Chemical Equilibrium with Applications)
 
 ---
 

@@ -1,0 +1,7 @@
+problem    o/f=9.48,
+      tp   t,k=300,  p,bar=1,
+react  
+  oxid=N2O wt=1  t,k=273  
+  fuel=Paraffin  wt=1  t,k=273  
+    h,kj/mol=-698.52  C 32 H 66 
+end

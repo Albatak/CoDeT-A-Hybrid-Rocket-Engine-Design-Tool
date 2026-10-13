@@ -1,0 +1,13 @@
+problem   
+ rocket frozen
+  p,bar=30,
+  sup,ae/at=3,
+react  
+  oxid=N2O(L) wt=10  t,k=293  
+    h,kJ/mol=65.1 N 2 O 1  
+  oxid=O2 wt=0  t,k=293  
+  fuel=AL(cr) wt=0  t,k=293  
+  fuel=Paraffin  wt=1  t,k=298.15  
+    h,kJ/mol=-1860.6 C 32 H 66  
+output massf
+end

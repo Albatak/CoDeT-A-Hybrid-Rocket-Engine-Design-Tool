@@ -1,0 +1,14 @@
+problem   
+ rocket frozen
+  p,bar=35,
+  pi/p=7,
+react  
+  oxid=CO2(L) wt=2631.7277  t,k=295  
+  oxid=CO2(L) wt=0  t,k=295  
+    h,kJ/mol=-410.5 C 1 O 2  
+  fuel=CO  wt=0.15813  t,k=2875.69  
+  fuel=CO2  wt=0.13394  t,k=2875.69  
+  fuel=H2O  wt=0.12237  t,k=2875.69  
+  fuel=N2  wt=0.55473  t,k=2875.69  
+output massf
+end
